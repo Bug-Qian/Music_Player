@@ -1,0 +1,43 @@
+[{
+  "id":"1001",
+  "name":"one call away",
+  "singer":"Charlie Puth",
+  "ablum":"love you",
+  "duration":"03:12",
+  "src":"resources/music/Charlie%20Puth%20-%20One%20Call%20Away.mp3"
+},{
+  "id":"1002",
+  "name":"love you like movies",
+  "singer":"Anthem Lights",
+  "ablum":"Escape",
+  "duration":"03:48",
+  "src":"resources/music/Anthem%20Lights%20-%20Love%20You%20Like%20the%20Movies.mp3"
+},{
+  "id":"1003",
+  "name":"Lemonade",
+  "singer":"Chris Rice",
+  "ablum":"What a heart is beating for",
+  "duration":"03:03",
+  "src":"resources/music/Chris%20Rice%20-%20Lemonade.mp3"
+},{
+  "id":"1004",
+  "name":"H.O.L.Y",
+  "singer":"Florida Georgia Line",
+  "ablum":"H.O.L.Y",
+  "duration":"03:14",
+  "src":"resources/music/Florida%20Georgia%20Line%20-%20H.O.L.Y.mp3"
+},{
+  "id":"1005",
+  "name":"Hello L.O.V.E",
+  "singer":"Jonny Diaz",
+  "ablum":"Starts with Love",
+  "duration":"03:17",
+  "src":"resources/music/Jonny%20Diaz%20-%20Hello%20L.O.V.E.mp3"
+},{
+  "id":"1006",
+  "name":"Secrets",
+  "singer":"OneRepublic",
+  "ablum":"Secrets",
+  "duration":"03:42",
+  "src":"resources/music/OneRepublic%20-%20Secrets.mp3"
+}]
